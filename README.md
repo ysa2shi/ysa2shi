@@ -13,6 +13,8 @@
   </a>
 </p>
 
+</div></details>
+
 <details><summary>Stats</summary><div>
 
 ## Stats
@@ -23,8 +25,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=y-sa2shi&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=y-sa2shi&theme=nord_dark&utcOffset=9)
 
+</div></details>
+
 <details><summary>Trophy</summary><div>
 
 ## Trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=y-sa2shi&theme=nord)
+
+</div></details>
