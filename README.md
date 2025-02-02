@@ -1,3 +1,6 @@
+<details><summary>Github & Zenn</summary><div>
+
+## Github & Zenn
 <p align="left">
   <a href="https://github.com/y-sa2shi">
     <img height="20" src="https://komarev.com/ghpvc/?username=y-sa2shi" />
@@ -10,6 +13,8 @@
   </a>
 </p>
 
+<details><summary>Stats</summary><div>
+
 ## Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y-sa2shi&theme=nord_dark)
@@ -17,6 +22,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=y-sa2shi&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=y-sa2shi&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=y-sa2shi&theme=nord_dark&utcOffset=9)
+
+<details><summary>Trophy</summary><div>
 
 ## Trophy
 
