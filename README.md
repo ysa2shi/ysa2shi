@@ -9,7 +9,7 @@
     <img height="20" src="https://img.shields.io/github/followers/ysa2shi?label=follow&logo=github&style=flat" />
   </a>
   <a href="https://zenn.dev/y_satoshi">
-    <img height="20" src="https://badgen.org/img/zenn/y_satoshi/articles?style=plastic" />
+    <img height="20" src="https://badgen.org/img/zenn/y_satoshi/articles?style=flat" />
   </a>
 </p>
 
