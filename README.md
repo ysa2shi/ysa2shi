@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Satoshi</h1>
-<h3 align="center">Creative Web Engineer</h3>
 
 ## 🚀 Personal Project
 
