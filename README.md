@@ -1,35 +1,42 @@
-<details><summary>Github & Zenn</summary><div>
+<h1 align="center">Hi 👋, I'm Satoshi</h1>
+<h3 align="center">Creative Web Engineer</h3>
 
-  ### Github & Zenn
+## 🚀 Personal Project
+
+- [**portfolio**](https://sa2shidev.com/)
+
+   etc...
+
+## 📝 Latest Zenn Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 🛠️ Tech Stack
+
+### Core Skills
+
 <p align="left">
-  <a href="https://github.com/ysa2shi">
-    <img height="20" src="https://komarev.com/ghpvc/?username=ysa2shi" />
-  </a>
-  <a href="https://github.com/ysa2shi">
-    <img height="20" src="https://img.shields.io/github/followers/ysa2shi?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://zenn.dev/y_satoshi">
-    <img height="20" src="https://badgen.org/img/zenn/y_satoshi/articles?style=flat" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,spring,docker,aws,mysql" />
   </a>
 </p>
 
-</div></details>
+### Developing Skills / Personal Project Skills
 
-<details><summary>Stats</summary><div>
-  
-  ### Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysa2shi&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysa2shi&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysa2shi&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysa2shi&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysa2shi&theme=nord_dark&utcOffset=9)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,tailwindcss,postgres,cloudflare,fastapi" />
+  </a>
+</p>
 
-</div></details>
+## 🏆 GitHub Stats
 
-<details><summary>Trophy</summary><div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ysa2shi&label=Profile%20views&color=0e75b6&style=flat" alt="ysa2shi" /> </p>
 
-### Trophy
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ysa2shi" alt="ysa2shi" /></a> </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ysa2shi&theme=nord)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysa2shi&show_icons=true&locale=en&layout=compact" alt="ysa2shi" /></p>
 
-</div></details>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ysa2shi&show_icons=true&locale=en" alt="ysa2shi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ysa2shi&" alt="ysa2shi" /></p>
