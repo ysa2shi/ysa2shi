@@ -8,6 +8,7 @@
 
 ## 📝 Latest Zenn Posts
 <!-- BLOG-POST-LIST:START -->
+- [【個人開発】モドーロタイマー『Shun: Focus』をリリースしました](https://zenn.dev/y_satoshi/articles/article-20250701)
 - [【MySQL・PostgreSQL】データベースの「カラムコメントの変更方法」について](https://zenn.dev/y_satoshi/articles/article-20250620)
 - [faviconを設定したので調べたことをまとめてみた](https://zenn.dev/y_satoshi/articles/article-20250608-1)
 - [【個人開発】エンジニアポートフォリオサイトをAstro + GitHub Actions + Cloudflare Pagesで作った](https://zenn.dev/y_satoshi/articles/article-20250602-1)
