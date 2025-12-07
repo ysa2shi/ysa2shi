@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 15 * * *" # <-- 日本時間 午前0時に実行
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
