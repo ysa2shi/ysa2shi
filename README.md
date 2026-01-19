@@ -31,11 +31,11 @@
 
 ## 📝 Latest Zenn Posts
 <!-- BLOG-POST-LIST:START -->
+- [【PoC】Spring BootでDB設計書とAPI仕様書の自動生成を試してみた&quot;](https://zenn.dev/y_satoshi/articles/article-20260118)
 - [【個人開発】ポモドーロタイマー『Shun: Focus』をリリースしました](https://zenn.dev/y_satoshi/articles/article-20250701)
 - [【MySQL・PostgreSQL】データベースの「カラムコメントの変更方法」について](https://zenn.dev/y_satoshi/articles/article-20250620)
 - [faviconを設定したので調べたことをまとめてみた](https://zenn.dev/y_satoshi/articles/article-20250608-1)
 - [【個人開発】エンジニアポートフォリオサイトをAstro + GitHub Actions + Cloudflare Pagesで作った](https://zenn.dev/y_satoshi/articles/article-20250602-1)
 - [【GitHub】共通プルリクエストテンプレートを作成し開発効率UP！](https://zenn.dev/y_satoshi/articles/article-20250526-1)
 - [【Astro】チュートリアルやってみた](https://zenn.dev/y_satoshi/articles/article-20250520-1)
-- [はじめまして！自己紹介とこれからのこと](https://zenn.dev/y_satoshi/articles/article-20250518-1)
 <!-- BLOG-POST-LIST:END -->
