@@ -31,7 +31,7 @@
 
 ## 📝 Latest Zenn Posts
 <!-- BLOG-POST-LIST:START -->
-- [【PoC】Spring BootでDB設計書とAPI仕様書の自動生成を試してみた&quot;](https://zenn.dev/y_satoshi/articles/article-20260118)
+- [【PoC】Spring BootでDB設計書とAPI仕様書の自動生成を試してみた](https://zenn.dev/y_satoshi/articles/article-20260118)
 - [【個人開発】ポモドーロタイマー『Shun: Focus』をリリースしました](https://zenn.dev/y_satoshi/articles/article-20250701)
 - [【MySQL・PostgreSQL】データベースの「カラムコメントの変更方法」について](https://zenn.dev/y_satoshi/articles/article-20250620)
 - [faviconを設定したので調べたことをまとめてみた](https://zenn.dev/y_satoshi/articles/article-20250608-1)
