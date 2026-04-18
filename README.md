@@ -3,6 +3,7 @@
 ## 🚀 Personal Project
 
 - [**portfolio**](https://sa2shidev.com/)
+- [**anisara**](https://anisara.app/)
 - [**Shun: Focus**](https://shunfocus.vercel.app/)
 
    etc...
