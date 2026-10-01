@@ -14,7 +14,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,spring,docker,aws,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,aws,mysql" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,tailwindcss,postgres,cloudflare,fastapi" />
+    <img src="https://skillicons.dev/icons?i=ts,astro,tailwindcss,cloudflare,kotlin,ktor,gcp,supabase" />
   </a>
 </p>
 
